@@ -22,8 +22,8 @@ namespace TestService
         {
             while (true)
             {
-                File.AppendAllText(@"..\..\myService\DataCollection.txt", "Проверка работоспособности службы");
-                await Task.Delay(10000); // Раз в 10 секунд вывод сообщения в текстовый файл
+                File.AppendAllText(@"H:\dev\myService\DataCollection.txt", "Проверка работоспособности службы");
+                await Task.Delay(9999); // Раз в 10 секунд вывод сообщения в текстовый файл
             }
         }
 
