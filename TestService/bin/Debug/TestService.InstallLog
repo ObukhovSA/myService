@@ -11,3 +11,42 @@
    logtoconsole = 
    assemblypath = H:\dev\myService\TestService\bin\Debug\TestService.exe
    logfile = H:\dev\myService\TestService\bin\Debug\TestService.InstallLog
+Выполняется установка сборки 'H:\dev\myService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\dev\myService\TestService\bin\Debug\TestService.exe
+   logfile = H:\dev\myService\TestService\bin\Debug\TestService.InstallLog
+Устанавливается служба TestService...
+Создается исходный EventLog TestService в журнале Application...
+Выполняется откат для сборки 'H:\dev\myService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\dev\myService\TestService\bin\Debug\TestService.exe
+   logfile = H:\dev\myService\TestService\bin\Debug\TestService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника TestService.
+Выполняется установка сборки 'H:\dev\myService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\dev\myService\TestService\bin\Debug\TestService.exe
+   logfile = H:\dev\myService\TestService\bin\Debug\TestService.InstallLog
+Устанавливается служба TestService...
+Создается исходный EventLog TestService в журнале Application...
+Выполняется откат для сборки 'H:\dev\myService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\dev\myService\TestService\bin\Debug\TestService.exe
+   logfile = H:\dev\myService\TestService\bin\Debug\TestService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника TestService.
+Выполняется установка сборки 'H:\dev\myService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\dev\myService\TestService\bin\Debug\TestService.exe
+   logfile = H:\dev\myService\TestService\bin\Debug\TestService.InstallLog
+Устанавливается служба TestService...
+Создается исходный EventLog TestService в журнале Application...
+Выполняется откат для сборки 'H:\dev\myService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\dev\myService\TestService\bin\Debug\TestService.exe
+   logfile = H:\dev\myService\TestService\bin\Debug\TestService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника TestService.
