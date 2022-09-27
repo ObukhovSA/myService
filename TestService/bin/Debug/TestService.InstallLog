@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'H:\dev\myService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\dev\myService\TestService\bin\Debug\TestService.exe
+   logfile = H:\dev\myService\TestService\bin\Debug\TestService.InstallLog
+Устанавливается служба TestService...
+Служба TestService успешно установлена.
+Создается исходный EventLog TestService в журнале Application...
+Выполняется фиксация сборки 'H:\dev\myService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\dev\myService\TestService\bin\Debug\TestService.exe
+   logfile = H:\dev\myService\TestService\bin\Debug\TestService.InstallLog

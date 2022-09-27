@@ -1,0 +1,10 @@
+H:\dev\myService\TestService\bin\Debug\TestService.exe.config
+H:\dev\myService\TestService\bin\Debug\TestService.exe
+H:\dev\myService\TestService\bin\Debug\TestService.pdb
+H:\dev\myService\TestService\obj\Debug\TestService.csproj.AssemblyReference.cache
+H:\dev\myService\TestService\obj\Debug\TestService.csproj.SuggestedBindingRedirects.cache
+H:\dev\myService\TestService\obj\Debug\TestService.ProjectInstaller.resources
+H:\dev\myService\TestService\obj\Debug\TestService.csproj.GenerateResource.cache
+H:\dev\myService\TestService\obj\Debug\TestService.csproj.CoreCompileInputs.cache
+H:\dev\myService\TestService\obj\Debug\TestService.exe
+H:\dev\myService\TestService\obj\Debug\TestService.pdb
